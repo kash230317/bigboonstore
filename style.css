@@ -1,0 +1,55 @@
+
+
+#about_us{ margin-top: 5%;
+
+    margin-bottom: 5%;
+    background-color:#fef1be ;
+    padding: 5%;
+
+}
+
+footer{
+    background-color: black;
+    padding: 2%;
+    font-family: 'Otomanopee One'
+    
+}
+
+nav{
+    background-color: #fef1be;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 5mm;
+}
+ul{
+    list-style: none;
+    color: white;
+}
+
+.footer-link{
+
+color: white;
+}
+
+.footer-link:hover{
+    color: pink;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+
+
+  
+
+ 
